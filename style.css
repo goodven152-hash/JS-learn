@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.calc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.id1 {
+    padding: 25%;
+    border: 1px solid;
+}
